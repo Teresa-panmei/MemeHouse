@@ -608,7 +608,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "JOSHUA GONMEI",
     roll: "NDUIBC2625", course: "BCA (4 Years)", section: "SECTION C",
-    meme: null, reason: null },
+    meme: "images/teresa 2623 BCA2C.jpeg", reason: "confused" },
 ];
 
 // ── Fallback reasons (used when student's reason field is null) ──────────
